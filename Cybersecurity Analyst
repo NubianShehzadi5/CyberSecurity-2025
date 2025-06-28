@@ -1,0 +1,76 @@
+# Cybersecurity Analyst 
+
+## Summary
+
+Motivated and detail-oriented Cybersecurity Analyst with hands-on experience in threat detection, network scanning, vulnerability assessment, and incident response. Adept at analyzing security events, conducting risk assessments, and delivering actionable recommendations to safeguard organizational assets. Passionate about continuous learning and leveraging technology to anticipate and mitigate security risks.
+
+---
+
+## Technical Skills
+
+- **Network Security:** TCP/IP, firewalls, VPNs, IDS/IPS, Wireshark, Nmap
+- **Threat & Vulnerability Assessment:** Nessus, OpenVAS, OWASP ZAP, Nikto
+- **SIEM & Log Analysis:** Splunk, ELK Stack, Graylog
+- **Scripting/Automation:** Python, Bash
+- **Incident Response:** Triage, forensics, malware analysis, reporting
+- **Operating Systems:** Windows, Linux (Ubuntu, Kali)
+- **Compliance Standards:** NIST, ISO 27001, GDPR, HIPAA
+
+---
+
+## Tools & Technologies
+
+- Nmap, Nessus, OpenVAS, Metasploit, Wireshark, Burp Suite, Splunk, ELK Stack, OSQuery, Git, VirtualBox/VMware
+
+---
+
+## Certifications
+
+- CompTIA Security+ (in progress)
+- TryHackMe: Complete Beginner Path
+- Google Cybersecurity Certificate
+
+---
+
+## Projects
+
+- **Mini-Nmap Network Scanner:** Developed a Python-based port scanner to identify active hosts and enumerate open ports.
+- **Vulnerability Assessment:** Conducted manual and automated assessments of web applications, producing detailed risk reports and remediation steps.
+- **SIEM Log Analysis:** Built custom dashboards and alerts in Splunk to detect unauthorized access and suspicious behavior.
+- **Phishing Simulation:** Designed and ran simulated phishing campaigns, followed by user awareness training and reporting.
+
+---
+
+## Experience
+
+**Cybersecurity Certificate Program**  
+[Google Cybersecurity Certificate] — [2024]
+- Assisted with network monitoring and incident detection using SIEM tools.
+- Performed vulnerability scans and compiled assessment reports.
+- Researched and documented emerging threats and security best practices.
+
+**[Other Relevant Role]**  
+[Company/Organization] — [Dates]
+- [Brief description of duties and achievements]
+
+---
+
+## Education
+
+- [Information Security]  
+  [City College of San Francisco], [2020-2024]
+
+---
+
+## Professional Development
+
+- Regular participation in CTFs (Capture The Flag) and online labs (TryHackMe, Hack The Box)
+- Continuous self-study on emerging cyber threats and defense techniques
+
+---
+
+## Contact
+
+- **Email:** [ayshagasghar@gmail.com]
+- **LinkedIn:** [linkedin.com/in/aysha-g-asghar]
+- **GitHub:** [github.com/NubiaShezadi5]
